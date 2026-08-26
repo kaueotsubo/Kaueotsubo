@@ -1,52 +1,97 @@
 <h1 align="center">👋 Olá! Eu sou o Kauê Otsubo</h1>
 
 <p align="center">
-  Formado em <b>Informática para Internet</b> pelo IFAC |
-  Estudante de <b>Sistemas para Internet</b> no IFAC (2025–2027) <br>
-  Estagiário de <b>Suporte de TI e Infraestrutura</b> (UNINORTE) |
-  Desenvolvedor <b>Back-end</b>, explorador de <b>Game Dev</b> e futuro <b>Full Stack</b>.
+  Estudante de <b>Sistemas para Internet</b> no IFAC |
+  Estagiário de <b>TI e Infraestrutura</b> na UNINORTE |
+  Desenvolvedor <b>Back-end</b> em formação em <b>Cibersegurança</b>
+</p>
+
+<p align="center">
+  <i>Desenvolvimento, infraestrutura e segurança: sempre aprendendo e construindo algo novo. 🚀</i>
 </p>
 
 ---
 
-## 🧙‍♂️ Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou **Kauê Otsubo de Araújo**, de Rio Branco, Acre.  
-🎓 Concluí o **Ensino Médio Técnico em Informática para Internet** no **IFAC** e sigo na mesma instituição cursando **Sistemas para Internet**.  
-💻 Atualmente, atuo como Estagiário de Suporte de TI e Infraestrutura na **UNINORTE**, unindo hardware, redes e software no dia a dia.  
-🚀 Sou entusiasta do Back-end (PHP + MySQL) e apaixonado por criar experiências interativas através do desenvolvimento de jogos. Busco sempre escrever códigos limpos e soluções que resolvam problemas reais.  
+Sou **Kauê Otsubo de Araújo**, estudante e profissional de tecnologia de **Rio Branco, Acre**.
+
+🎓 Concluí o curso técnico integrado em **Informática para Internet** pelo **IFAC** e atualmente curso **Tecnologia em Sistemas para Internet**.
+
+🖥️ Atuo como **Estagiário de TI e Infraestrutura** na **UNINORTE**, onde venho adquirindo experiência prática com suporte técnico, hardware, sistemas, redes e infraestrutura.
+
+💻 Tenho maior afinidade com o desenvolvimento **Back-end**, especialmente utilizando **PHP e MySQL**, e gosto de criar sistemas organizados que resolvam problemas reais.
+
+🔐 Atualmente também estou construindo conhecimentos na área de **Cibersegurança**, explorando fundamentos de segurança, redes, Linux e proteção de sistemas.
+
+🚀 Meu objetivo é continuar evoluindo como profissional, conectando conhecimentos de **Desenvolvimento, Infraestrutura e Segurança**.
 
 ---
 
-## 🧠 Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,c,cs,unity,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,c,cs,linux,git,github,vscode" />
 </div>
 
 <p align="center">
-  🧩 Especialista em modelagem e manipulação de dados com <b>MySQL</b>. No momento, focado em aprimorar <b>C# e Unity</b> para levar minhas ideias de jogos para o próximo nível.
+  💡 Busco entender não apenas <b>como desenvolver sistemas</b>, mas também como eles funcionam, são implantados e podem ser protegidos.
 </p>
 
 ---
 
-## 🪄 Projetos em destaque
+## 🚀 Projetos em destaque
 
-- 🔮 **[SOI - Sistema de Ocorrência do Integrado](https://soi.page.gd/?i=1):** Projeto de TCC. Um ecossistema web completo com PHP e MySQL, focado em gestão de ocorrências escolares.
-- 📚 **Biblioteca Athenas:** Sistema robusto para gerenciamento de acervos bibliográficos, desenvolvido com foco em lógica de back-end.
-- 🎸 **Fan Site - Ghost:** Um tributo à banda Ghost, explorando design responsivo e interatividade com HTML, CSS e JavaScript.
-- 🎮 **Visual Novel de Terror Psicológico (Em desenvolvimento):** Um projeto autoral no motor Ren'Py, focado em narrativa não linear e atmosfera imersiva, inspirado em grandes clássicos do gênero.
-- 🕹️ **Protótipos em Unity:** Desenvolvimento de mecânicas e scripts em C# para jogos 2D/3D.
-- 📘 **Manipulação de Documentos em PHP:** Projeto focado em automação de upload e leitura de arquivos PDF.
+### 🏫 SOI — Sistema de Ocorrência do Integrado
+Sistema web desenvolvido como projeto acadêmico para auxiliar na gestão de ocorrências escolares.
+
+O projeto utiliza **PHP e MySQL** e está sendo estruturado com foco na organização do código, arquitetura e regras de negócio.
+
+🔗 [Acessar o projeto](https://soi.ifac.si/?i=1)
 
 ---
 
-## ⚡ Status Atual
+### 📚 Biblioteca Athenas
+Sistema para gerenciamento de acervos bibliográficos, desenvolvido com foco na lógica de programação, organização do Back-end e manipulação de dados.
 
-- 🔭 **Foco Total:** Finalizando o back-end e a infraestrutura do **SOI** para o TCC.
-- 🌱 **Aprendizado:** Aprofundando na lógica e no roteiro de um jogo indie com foco em narrativa.
-- 🎧 **Vibe:** Codando ao som de muito **Ghost**.
-- 🖥️ **Hardware:** Aproveitando cada pixel do meu monitor **ultrawide** para organizar o workspace de desenvolvimento.
+---
+
+### 🎸 Fan Site — Ghost
+Projeto Front-end criado como homenagem à banda **Ghost**, explorando **HTML, CSS, JavaScript, responsividade e interatividade**.
+
+---
+
+### 🎤 Fan Site — Lulu Suicide
+Projeto desenvolvido como uma homenagem à **Lulu Suicide**, explorando desenvolvimento Front-end, identidade visual e criação de uma experiência digital inspirada na estética e universo artístico da artista.
+
+---
+
+🎯 Áreas de interesse:
+
+- Desenvolvimento de jogos 2D e 3D
+- Lógica de programação para jogos
+- Narrativas interativas
+- Desenvolvimento de mecânicas
+
+---
+
+## 📚 Atualmente estudando
+
+- 🔐 Fundamentos de **Cibersegurança**
+- 🌐 **Redes de Computadores**
+- 🐧 **Linux e administração de sistemas**
+- 💻 Desenvolvimento **Back-end**
+- 🏗️ Arquitetura e organização de software
+
+---
+
+## ⚡ Um pouco mais sobre mim
+
+- 💡 Gosto de aprender criando projetos e colocando o conhecimento em prática.
+- 🔎 Sou curioso por natureza e sempre tento entender como as coisas funcionam.
+- 🎮 Também gosto de explorar desenvolvimento de jogos e experiências interativas.
+- 🎸 Minha playlist de programação provavelmente tem **Ghost** e **Lulu Suicide** tocando.
+- 🚀 Acredito que sempre existe algo novo para aprender, construir ou melhorar.
 
 ---
 
@@ -58,6 +103,10 @@ Sou **Kauê Otsubo de Araújo**, de Rio Branco, Acre.
 
 ---
 
-<br>
+<p align="center">
+  💬 <i>"Sempre há algo novo para aprender, construir ou proteger."</i>
+</p>
 
-<h3 align="center">👑 Kauê Otsubo — “O Front pegará fogo nas mãos do back.” 👑</h3>
+<p align="center">
+  👑 <b>Kauê Otsubo — "O Front pegará fogo nas mãos do back."</b> 👑
+</p>
