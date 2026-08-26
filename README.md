@@ -31,7 +31,7 @@ Sou **Kauê Otsubo de Araújo**, estudante e profissional de tecnologia de **Rio
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,c,cs,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,c,linux,git,github,vscode" />
 </div>
 
 <p align="center">
